@@ -1,0 +1,7 @@
+br\edu\ifnmg\poo\library\Library.class
+br\edu\ifnmg\poo\repository\IDao.class
+br\edu\ifnmg\poo\book\BookDAO.class
+br\edu\ifnmg\poo\repository\Dao.class
+br\edu\ifnmg\poo\book\Book.class
+br\edu\ifnmg\poo\repository\DbConnection.class
+br\edu\ifnmg\poo\entity\Entity.class
